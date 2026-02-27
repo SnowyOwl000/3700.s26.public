@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab7test.dir/main.cpp.o CMakeFiles/lab7test.dir/sampler.cpp.o CMakeFiles/lab7test.dir/disjointSet.cpp.o -o lab7test 
