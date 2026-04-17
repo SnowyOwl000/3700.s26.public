@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bob/School/Courses/3700.course/Containers/TreeContainers/RBTree/cmake-build-debug",
+  "command": "/usr/bin/c++  -I/home/bob/Programming/include -g -fdiagnostics-color=always -o CMakeFiles/RBTree.dir/main.cpp.o -c /home/bob/School/Courses/3700.course/Containers/TreeContainers/RBTree/main.cpp",
+  "file": "/home/bob/School/Courses/3700.course/Containers/TreeContainers/RBTree/main.cpp",
+  "output": "CMakeFiles/RBTree.dir/main.cpp.o"
+}
+]

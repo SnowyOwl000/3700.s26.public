@@ -1,0 +1,4 @@
+/home/bob/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/bob/School/Courses/3700.course/Containers/TreeContainers/RBTree -B /home/bob/School/Courses/3700.course/Containers/TreeContainers/RBTree/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/bob/School/Courses/3700.course/Containers/TreeContainers/RBTree/cmake-build-debug
